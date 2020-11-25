@@ -1,6 +1,6 @@
 # Stabuck_analysis_loyalprediction
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ftpi.or.th%2F2015%2F1999&psig=AOvVaw1rKSAwMY9PZ0E_jsYwfgwp&ust=1606406926168000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOj8hKeKnu0CFQAAAAAdAAAAABAD)
+![stabuck](https://www.ftpi.or.th//wp-content/uploads/2015/03/StarBucks-exp-1.jpg)
 
 ## Problem statement
 
